@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img alt="react-native-hi" src="./image/taskbosslog.PNG" width="208">
+</p>
+
 # TaskBoss
 
 Web app made with ReactJs and Context API

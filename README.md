@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="todo" src="./image/taskbosslogo.PNG" width="208">
+  <img alt="todo" src="./images/taskbosslogo.PNG" width="208">
 </p>
 
 # TaskBoss
